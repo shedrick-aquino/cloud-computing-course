@@ -47,14 +47,14 @@ I recommend **AWS** for the multinational e-commerce company because AWS Regions
 
 ## References
 
-Amazon Web Services. “About AWS.” https://aws.amazon.com/about-aws
-Amazon Web Services. “What is Amazon EC2 Auto Scaling?” https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
-Microsoft Learn. “Microsoft Entra product family.” https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra
-Microsoft Learn. “Azure Arc overview.” https://learn.microsoft.com/en-us/azure/azure-arc/overview
-Google Cloud. “Introduction to Vertex AI.” https://docs.cloud.google.com/vertex-ai/docs/start/introduction-unified-platform?hl=en
-Google Cloud. “Compute Engine overview.” https://docs.cloud.google.com/compute/docs/overview
-Google Cloud. “GKE overview.” https://docs.cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview
-Amazon Web Services. “Global Infrastructure.” https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html
-Amazon Web Services. “What is Elastic Load Balancing?” https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
-Amazon Web Services. “What is Amazon CloudFront?” https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+Amazon Web Services. “About AWS.” https://aws.amazon.com/about-aws  
+Amazon Web Services. “What is Amazon EC2 Auto Scaling?” https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html  
+Microsoft Learn. “Microsoft Entra product family.” https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
+Microsoft Learn. “Azure Arc overview.” https://learn.microsoft.com/en-us/azure/azure-arc/overview  
+Google Cloud. “Introduction to Vertex AI.” https://docs.cloud.google.com/vertex-ai/docs/start/introduction-unified-platform?hl=en  
+Google Cloud. “Compute Engine overview.” https://docs.cloud.google.com/compute/docs/overview  
+Google Cloud. “GKE overview.” https://docs.cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview  
+Amazon Web Services. “Global Infrastructure.” https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html  
+Amazon Web Services. “What is Elastic Load Balancing?” https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html  
+Amazon Web Services. “What is Amazon CloudFront?” https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html  
 Amazon Web Services. “What is Amazon Route 53?” https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
