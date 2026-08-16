@@ -31,3 +31,7 @@ Google Cloud is a strong choice for AI, machine learning, and Kubernetes-based w
 ### 4. Which cloud platform would you personally choose and why?
 
 I would choose Google Cloud because I am interested in artificial intelligence. Its integration of Compute Engine, Google Kubernetes Engine, Cloud Storage, and AI services would give me an environment where I could learn both cloud infrastructure and modern AI technologies.
+
+## References
+https://aws.amazon.com/what-is-aws/
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/azure-integration?view=o365-worldwide
