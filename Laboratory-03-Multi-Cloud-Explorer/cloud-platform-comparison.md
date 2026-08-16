@@ -34,7 +34,7 @@ For this activity, **Google Cloud** is a strong recommendation for AI and Kubern
 
 ---
 
-## Checkpoint 5 – Equivalent Cloud Services
+## Equivalent Cloud Services
 
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
