@@ -34,7 +34,7 @@ I recommend **AWS** for the multinational e-commerce company because AWS Regions
 
 ---
 
-## Checkpoint 6 – Multi-Cloud Decision Matrix
+## Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
