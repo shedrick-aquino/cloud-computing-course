@@ -8,7 +8,7 @@ cat /etc/os-release
 ```
 ### Output
 Operating System: Ubuntu 24.04.4 LTS
-
+---
 ## CPU Information
 
 ### Command used:
