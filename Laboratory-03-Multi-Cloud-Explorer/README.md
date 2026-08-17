@@ -21,6 +21,8 @@ lscpu | grep -E 'Architecture|CPU\(s\)|Model name|Thread|Core'
 Architecture: x86_64
 CPU: 1 CPU, Intel Xeon E312xx
 
+---
+
 ## Memory
 
 ### Command used:
@@ -30,6 +32,8 @@ free -h
 ### Output
 Memory: 1.9 GiB RAM
 
+---
+
 ## Disk Space
 
 ### Command used:
@@ -38,6 +42,8 @@ df -h
 ```
 ### Output
 Disk: 19 GB total, about 13 GB available
+
+---
 
 ## Cloud Migration Recommendation
 
@@ -66,6 +72,8 @@ The equivalent Google Cloud service is **Google Compute Engine**. Compute Engine
 | **Google Cloud Platform** | **Compute Engine** | Provides self-managed Linux virtual machines with customizable compute and storage resources. |
 
 Therefore, this Ubuntu Linux server could be migrated to **Amazon EC2 on AWS, Azure Virtual Machines on Microsoft Azure, or Compute Engine on Google Cloud Platform**. Since the current server only has 1 CPU, about 2 GiB of RAM, and 19 GB of disk storage, it would not initially require a large cloud VM. The final VM size should still be selected according to the application's performance, storage, network, availability, and future growth requirements. 
+
+---
 
 ## KillerCoda Terminal Screenshot
 
