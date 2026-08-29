@@ -6,6 +6,7 @@
 ```bash
 cat /etc/os-release
 ```
+
 ### Output
 ```text
 Operating System: Ubuntu 24.04.4 LTS  
@@ -18,8 +19,9 @@ Operating System: Ubuntu 24.04.4 LTS
 ```bash
 lscpu | grep -E 'Architecture|CPU\(s\)|Model name|Thread|Core'
 ```
-```
+
 ### Output
+```
 Architecture: x86_64
 CPU: 1 CPU, Intel Xeon E312xx
 ```
@@ -31,6 +33,7 @@ CPU: 1 CPU, Intel Xeon E312xx
 ```bash
 free -h
 ```
+
 ### Output
 ```
 Memory: 1.9 GiB RAM
@@ -43,8 +46,9 @@ Memory: 1.9 GiB RAM
 ```bash
 df -h
 ```
-```
+
 ### Output
+```
 Disk: 19 GB total, about 13 GB available
 ```
 ---
