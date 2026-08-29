@@ -7,8 +7,9 @@
 cat /etc/os-release
 ```
 ### Output
+```text
 Operating System: Ubuntu 24.04.4 LTS  
-
+```
 ---
 
 ## CPU Information
@@ -17,10 +18,11 @@ Operating System: Ubuntu 24.04.4 LTS
 ```bash
 lscpu | grep -E 'Architecture|CPU\(s\)|Model name|Thread|Core'
 ```
+```
 ### Output
 Architecture: x86_64
 CPU: 1 CPU, Intel Xeon E312xx
-
+```
 ---
 
 ## Memory
@@ -30,8 +32,9 @@ CPU: 1 CPU, Intel Xeon E312xx
 free -h
 ```
 ### Output
+```
 Memory: 1.9 GiB RAM
-
+```
 ---
 
 ## Disk Space
@@ -40,9 +43,10 @@ Memory: 1.9 GiB RAM
 ```bash
 df -h
 ```
+```
 ### Output
 Disk: 19 GB total, about 13 GB available
-
+```
 ---
 
 ## Cloud Migration Recommendation
