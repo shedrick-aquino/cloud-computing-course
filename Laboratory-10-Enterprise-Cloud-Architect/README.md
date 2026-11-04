@@ -60,4 +60,5 @@ Docker-published ports can bypass UFW, so the database publishes **no port** and
 ## 🛠️ Tools Used
 VirtualBox, Ubuntu Server, Docker, Docker Compose, UFW, cron, draw.io, KillerCoda, GitHub.
 
-**AI assistance:** Claude (Anthropic) helped draft the docker-compose.yml, automation-script.sh, the architecture diagram, the first draft of the operational manual, and our presentation script. Our group reviewed, tested and edited all of it, deployed the system ourselves, and wrote the final reflection.
+**AI assistance:**  
+Claude (Anthropic) helped draft the docker-compose.yml, automation-script.sh, the architecture diagram, the first draft of the operational manual, and our presentation script. Our group reviewed, tested and edited all of it, deployed the system ourselves, and wrote the final reflection.
