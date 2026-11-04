@@ -58,17 +58,5 @@ Default: deny (incoming), allow (outgoing)
 ```
 Docker-published ports can bypass UFW, so the database publishes **no port** and sits on a network marked `internal: true`.
 
-## 📸 Evidence (screenshots/)
-- [ ] `01-virtualbox-vm-settings.png` – VM resources and port-forwarding rules
-- [ ] `02-docker-version.png` – `docker --version` and `docker compose version`
-- [ ] `03-compose-ps.png` – both containers Up, db healthy
-- [ ] `04-wordpress-browser.png` – site opened from the host browser
-- [ ] `05-persistence-after-reboot.png` – test post still present after VM reboot
-- [ ] `06-ufw-status.png` – `sudo ufw status verbose`
-- [ ] `07-db-not-exposed.png` – `docker port cloudnova-db` (empty)
-- [ ] `08-backup-run.png` – script output and backup files
-- [ ] `09-crontab.png` – `sudo crontab -l`
-- [ ] `10-restore-drill.png` – deleted post restored from backup
-
 ## 🛠️ Tools Used
 VirtualBox, Ubuntu Server, Docker, Docker Compose, UFW, cron, draw.io, KillerCoda, GitHub. [Add any AI assistance here if your instructor requires disclosure.]
