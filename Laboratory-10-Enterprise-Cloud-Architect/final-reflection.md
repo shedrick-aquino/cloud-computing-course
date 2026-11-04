@@ -28,7 +28,7 @@ At first, the hardest part was not having a normal screen. Opening our first Ubu
 **How did the earlier missions show up in this final build? Which earlier skill did we rely on most?**  
 In Mission 10, everything we learned finally connected. We couldn't just build a server; we had to build it, protect it, and make it run on its own. We used our command line skills to create files, our container skills to launch the WordPress site, and our firewall skills to lock down the server. The skill we relied on the most was simply not panicking when using the black text screen. We had to type out long scripts and setup files, and being comfortable on the command line made that possible.
 
-**One design decision we made and why. Example topics: the internal database network, NAT port forwarding, generating passwords instead of typing them.**  
+**One design decision we made and why.**  
 One big choice we made was to completely hide our database. Instead of giving the database its own public door to the internet, we put it on a secret, internal network. We did this for safety. Only our WordPress website is allowed to talk to the database. This means even if a bad actor finds our server, they cannot even see the database from the outside, let alone try to break into it.
 
 **The hardest error or bug in Mission 10, and exactly how we debugged it.**  
