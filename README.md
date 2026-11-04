@@ -15,12 +15,42 @@ This repo serves as my organized workspace for all course requirements, includin
 - School Year: 2026-2027
 
 ## 📂 Repository Structure  
-cloud-computing-course/  
-├── activities/  
-├── projects/  
-├── notes/  
-├── reflections/  
+```text
+cloud-computing-course/
+├── Laboratory-01-Welcome-to-the-Cloud/
+├── Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/
+├── Laboratory-03-Multi-Cloud-Explorer/
+│   ├── screenshots/
+│   │   ├── aws-homepage.png
+│   │   ├── azure-homepage.png
+│   │   ├── gcp-homepage.png
+│   │   ├── github-repository.png
+│   │   ├── killercoda-terminal1.png
+│   │   └── killercoda-terminal2.png
+│   ├── aws-research.md
+│   ├── azure-research.md
+│   ├── client-recommendations.md
+│   ├── cloud-platform-comparison.md
+│   ├── gcp-research.md
+│   ├── README.md
+│   └── reflection.md
+├── Laboratory-10-Enterprise-Cloud-Architect/
+│   ├── .env.example
+│   ├── .gitignore
+│   ├── architecture-diagram.drawio
+│   ├── architecture-diagram.png
+│   ├── automation-script.sh
+│   ├── docker-compose.yml
+│   ├── final-reflection.md
+│   ├── operational-manual.md
+│   └── README.md
+├── activities/
+├── notes/
+├── projects/
+├── reflections/
+│   └── cloud-concepts-reflection.md
 └── README.md
+```
 
 ## 📖 Key Concepts Covered
 - Cloud Computing Basics
