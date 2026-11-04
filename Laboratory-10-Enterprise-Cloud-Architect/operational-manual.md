@@ -3,7 +3,7 @@
 
 **Project:** Secure Multi-Tier Web Application
 **Application Stack:** WordPress + MariaDB
-**Prepared by:** [Member 1] | [Member 2] | [Member 3] | [Member 4] | [Member 5]
+**Prepared by:** ALMEDA, JOHN NELLEY L. | AQUINO, SHEDRICK C. | LEMON, JAMES PATRICK T. | SALVADOR, JORIZ C.
 **Section:** BSIT 4H
 **Instructor:** TORRES, JENKIELYN C.
 **Date:** November 2026
