@@ -1,0 +1,6 @@
+# Secrets and generated files - never commit these
+.env
+docker-compose.override.yml
+backups/
+*.sql.gz
+*.tar.gz
