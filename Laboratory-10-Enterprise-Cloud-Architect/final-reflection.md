@@ -1,16 +1,10 @@
 # Final Reflection – From Mission 1 to Mission 10
 > *CCM101 – Cloud Computing | BSIT 4H*
 
-<!--
-HOW TO USE THIS FILE
-Replace every prompt in [brackets] with your own words, then delete this comment.
-Use real details: specific commands, errors, screenshots and moments from your
-Lab 1-10 folders and commit history. Aim for 600-1000 words in total.
-If your instructor wants individual reflections, give each member a short section under Part 6.
--->
-
 ## 1. Where We Started (Mission 1)
-[What did we know about Linux, servers and the cloud before this course? What felt hardest or most unfamiliar at first?]
+Before this course, we mostly just knew how to make basic web and mobile apps. We were used to writing code on normal computers where we could use a mouse to click on menus and folders. But we didn't really know how the computers that ran those apps actually worked behind the scenes. We had heard of "the cloud," but we had almost no real experience setting up Linux servers or keeping them safe.
+
+At first, the hardest part was not having a normal screen. Opening our first Ubuntu server and seeing nothing but a black screen with text was a big shock. We couldn't just click around to open files or connect to the internet anymore. Things that used to take two clicks on a regular computer now required us to type out exact commands. It was scary at first because we had to learn to rely only on the keyboard, and we had to be very careful—typing just one wrong letter meant the command wouldn't work.
 
 ## 2. Skills We Built (Missions 2-9)
 [Pick three or four missions. For each one: the skill we gained, one problem we hit, and how we solved it.]
