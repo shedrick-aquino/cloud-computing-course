@@ -9,20 +9,10 @@ At first, the hardest part was not having a normal screen. Opening our first Ubu
 
 ## 2. Skills We Built (Missions 2-9)
 
-- **Mission 3 – Learning the Command Line:** 
-  - **Skill:** We learned how to move between folders and change file rules using only typed commands.
-  - **Problem:** We kept getting "permission denied" errors when we tried to save or edit important files.
-  - **Solution:** We learned how to use the `sudo` command to temporarily borrow "admin" powers so the computer would let us make our changes.
-
-- **Mission 5 – Running Our First Containers:** 
-  - **Skill:** We learned how to run apps inside their own isolated boxes (containers) instead of installing them directly on the computer.
-  - **Problem:** We started a web container, but the website wouldn't load at all when we checked our browser.
-  - **Solution:** We realized we forgot to connect the container's hidden door to our computer's open door (port forwarding). Once we linked them, the website loaded perfectly.
-
-- **Mission 8 – Setting Up the Firewall:** 
-  - **Skill:** We learned how to act like a security guard for our server, deciding what kind of internet traffic is allowed in and what gets blocked.
-  - **Problem:** We turned the firewall on too fast and accidentally blocked our own connection, locking ourselves out of the server completely.
-  - **Solution:** We had to go back into the main VirtualBox screen, manually open the door for our remote connection, and then turn the firewall back on safely.
+- **Mission 3 – Multi-Cloud Explorer:**
+  - **Skill:** Acting as Cloud Solutions Consultants, we compared AWS, Microsoft Azure and Google Cloud and matched each client's needs to the right platform. We also investigated a real Linux server on KillerCoda using `cat /etc/os-release`, `lscpu`, `free -h` and `df -h`.
+  - **Problem:** The three providers use different names for the same kinds of services (Amazon EC2, Azure Virtual Machines and Compute Engine are all virtual machines), which made them hard to compare. The full `lscpu` output was also long and hard to read.
+  - **Solution:** We built a comparison table that lined up each provider's equivalent services, and we filtered the command output with `grep -E` to show only the lines we needed. This let us recommend a cloud VM sized for the server's 1 CPU, 1.9 GiB of RAM and 19 GB disk.
 
 ## 3. Putting It All Together (Mission 10)
 **How did the earlier missions show up in this final build? Which earlier skill did we rely on most?**  
