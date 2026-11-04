@@ -2,7 +2,7 @@
 > *Secure, automated, multi-tier web application for CloudNova Technologies*
 
 ## 👥 Group Information
-- **Members:** ALMEDA, JOHN NELLEY L., AQUINO, SHEDRICK C., LEMON,, JAMES PATRICK T., SALVADOR, JORIZ C.
+- **Members:** ALMEDA, JOHN NELLEY L., AQUINO, SHEDRICK C., LEMON, JAMES PATRICK T., SALVADOR, JORIZ C.
 - **Course/Section:** CCM101 – BSIT 4H
 - **Instructor:** TORRES, JENKIELYN C.
 - **School Year:** 2026-2027
