@@ -3,6 +3,7 @@
 
 ## 1. Where We Started (Mission 1)
 [What did we know about Linux, servers and the cloud before this course? What felt hardest or most unfamiliar at first?]
+
 Before this course, we mostly just knew how to make basic web and mobile apps. We were used to writing code on normal computers where we could use a mouse to click on menus and folders. But we didn't really know how the computers that ran those apps actually worked behind the scenes. We had heard of "the cloud," but we had almost no real experience setting up Linux servers or keeping them safe.
 
 At first, the hardest part was not having a normal screen. Opening our first Ubuntu server and seeing nothing but a black screen with text was a big shock. We couldn't just click around to open files or connect to the internet anymore. Things that used to take two clicks on a regular computer now required us to type out exact commands. It was scary at first because we had to learn to rely only on the keyboard, and we had to be very careful—typing just one wrong letter meant the command wouldn't work.
