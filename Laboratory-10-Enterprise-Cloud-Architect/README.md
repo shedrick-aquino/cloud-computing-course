@@ -36,7 +36,6 @@ The editable source is [`architecture-diagram.drawio`](architecture-diagram.draw
 | [`final-reflection.md`](final-reflection.md) | Our reflection on Missions 1 to 10 |
 | [`.env.example`](.env.example) | Template for the passwords file (the real `.env` is never committed) |
 | [`.gitignore`](.gitignore) | Keeps `.env`, backups and local overrides out of GitHub |
-| [`screenshots/`](screenshots/) | Evidence of each requirement |
 
 ## 🚀 Quick Start
 ```bash
