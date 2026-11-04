@@ -1,12 +1,12 @@
 # CCM101 – Cloud Computing
 ## Enterprise Cloud Architect – Operational Manual
 
-**Project:** Secure Multi-Tier Web Application
-**Application Stack:** WordPress + MariaDB
-**Prepared by:** ALMEDA, JOHN NELLEY L. | AQUINO, SHEDRICK C. | LEMON, JAMES PATRICK T. | SALVADOR, JORIZ C.
-**Section:** BSIT 4H
-**Instructor:** TORRES, JENKIELYN C.
-**Date:** November 2026
+**Project:** Secure Multi-Tier Web Application  
+**Application Stack:** WordPress + MariaDB  
+**Prepared by:** ALMEDA, JOHN NELLEY L. | AQUINO, SHEDRICK C. | LEMON, JAMES PATRICK T. | RAGADI, CHRISTOPHER D. | SALVADOR, JORIZ  
+**Section:** BSIT 4H  
+**Instructor:** TORRES, JENKIELYN C.  
+**Date:** November 2026  
 
 ---
 
