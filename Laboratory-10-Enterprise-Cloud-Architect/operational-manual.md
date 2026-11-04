@@ -20,7 +20,6 @@
 7. Disaster Recovery
 8. Routine Maintenance
 9. Troubleshooting
-10. Verification Checklist and Command Reference
 
 ---
 
@@ -291,33 +290,3 @@ Before updating images, run the backup script once so a rollback point exists.
 | Cron job did not run | Script not executable or wrong path | `chmod +x`; use full paths; check `journalctl -u cron` |
 | `bash\r: No such file` | Windows line endings | `sed -i 's/\r$//' automation-script.sh` |
 | KillerCoda site loads without styling | HTTPS override missing | Create `docker-compose.override.yml` (Section 4.4), then `docker compose up -d` |
-
----
-
-## 10. Verification Checklist and Command Reference
-
-**Verification checklist**
-- [ ] `docker compose ps` shows both containers Up, database healthy
-- [ ] Website opens from the host browser
-- [ ] Test post survives `docker compose down` / `up -d` and a VM reboot
-- [ ] `sudo ufw status verbose` shows deny incoming with only 22 and 80 allowed
-- [ ] `docker port cloudnova-db` prints nothing
-- [ ] Backup script runs without errors and creates two files
-- [ ] `sudo crontab -l` shows the 02:00 job
-- [ ] A deleted post is recovered by the restore procedure
-
-**Command reference**
-
-| Task | Command |
-|------|---------|
-| Start / stop | `docker compose up -d` / `docker compose down` |
-| Logs | `docker compose logs -f wordpress` |
-| Database console | `docker exec -it cloudnova-db mariadb -uroot -p` |
-| Volumes / networks | `docker volume ls` / `docker network ls` |
-| Resource usage | `docker stats --no-stream` |
-| Firewall | `sudo ufw status verbose` |
-| Listening ports | `sudo ss -tulpn` |
-| Run backup now | `sudo /opt/cloudnova/automation-script.sh` |
-| Copy a file to the host | `scp -P 2222 <user>@127.0.0.1:/path/file .` |
-
-> **Warning:** `docker compose down -v` deletes the volumes and every piece of data in them. Never run it on a live system.
